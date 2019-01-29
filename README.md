@@ -1,2 +1,2 @@
-# caffe_multiloss
-multiloss caffe
+# caffe_label_smooth
+
